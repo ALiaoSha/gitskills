@@ -1,3 +1,3 @@
 # gitskills
 a readme file is recommended for a repository
-Creating a new branch is very quick.
+Creating a new git branch is very quick.
